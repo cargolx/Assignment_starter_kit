@@ -13,7 +13,7 @@ Dataset Link - https://huggingface.co/datasets/iisc-aim/UVH-26
 
 ## Steps:
 
-1. Download a working subset of UVH-26. Explore and understand the data. What challenges do you observe for detection?
+1. Download a working subset of UVH-26. Explore and understand the data. What are your observations for detection?
 
 2. Fine-tune a detection model on UVH-26 (You can use Google Colab or Kaggle GPU). Evaluate and analyze how performance varies across different object sizes.
 
