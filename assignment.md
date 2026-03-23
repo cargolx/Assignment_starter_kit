@@ -7,6 +7,8 @@ For reference:
 - Our best detector model output — https://drive.google.com/file/d/1RcTyZWUJoH-ADuQ6gEsSWEXOreWu9qSz/view?usp=sharing
 - Starter repo — [Github](https://github.com/cargolx/Assignment_starter_kit.git) (contains frame-level detections from our best model on the above clip, with a visualization script)
 
+Dataset Link - https://huggingface.co/datasets/iisc-aim/UVH-26
+
 **Duration:** 1 Week
 
 ## Steps:
